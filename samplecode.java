@@ -1,9 +1,5 @@
-*****************************
-
-
-//Hotfix: fixed login error
-
-
+****************************
+//Feature branch change for conflict demo
 ***************************************
 public class HelloWorld {
     public static void main(String[] args) {
